@@ -1,0 +1,4 @@
+file,dir,label,header
+carpet_test.csv,raw_data\\log_files,carpet,6
+white_test.csv,raw_data\\log_files,tile,6
+red_test.csv,raw_data\\log_files,ruber,6
